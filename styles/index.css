@@ -8,7 +8,8 @@
     right: 47.85%;
     background: rgba(0, 0, 0, 0.09);
     border-radius: 0;
-    margin-top: -33px;
+    top: 143px;
+    margin: auto;
 
 
 
@@ -45,7 +46,6 @@ img {
 p {
     font-size: 14px;
     line-height: 20px;
-    margin-top: -4px;
     font-style: normal;
     font-weight: 400;
     -webkit-line-clamp: 1;
@@ -67,9 +67,10 @@ h1 {
     width: 29px;
     display: inline-block;
     background: #F5F5F5;
-    margin-top: 25px;
+    margin-top: 29px;
     margin-left: 3px;
     margin-right: 3px;
+    padding-bottom: 1px;
 
 }
 
@@ -78,5 +79,6 @@ h3 {
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
+    margin-top:10px;
+    margin-bottom:6px;
 }
-
