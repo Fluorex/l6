@@ -3,21 +3,16 @@
 #rectangle {
     height: 2px;
     width: 80px;
-    position: absolute;
     left: 47.85%;
     right: 47.85%;
     background: rgba(0, 0, 0, 0.09);
     border-radius: 0;
-    top: 143px;
     margin: 0 auto;
-
-
-
 }
+.sq {margin-bottom: 33px}
 
 #ot {
     margin-top: 79px;
-    margin-bottom: 73px;
 
 }
 
@@ -56,7 +51,7 @@ p {
 }
 
 h1 {
-    margin-bottom: 53px;
+    margin-bottom: 28px;
     font-weight: 400;
     font-size: 23px;
     line-height: 36px;
@@ -75,11 +70,12 @@ h1 {
 }
 
 h3 {
+
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
-    margin-bottom:6px;
     margin-top: 20px;
+    margin-bottom: 6px;
     text-transform: uppercase;
 }
